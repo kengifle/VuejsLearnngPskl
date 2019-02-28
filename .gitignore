@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+bin/
+dist/
+obj/
+.babelrc
+.postcssrc.js
